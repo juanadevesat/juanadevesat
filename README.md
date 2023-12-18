@@ -1,8 +1,23 @@
+<!--
+**juanadevesat/juanadevesat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 ### Hi there 👋
 
 This is my coding playground, where I enjoy learning and exploring different technologies. 
 
-##🛠️ These are the tools in my toolbox:
+## 🛠️ These are the tools in my toolbox:
 
 <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="30" alt="Amazon Web Services"></a>
 <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="30" alt="Google Cloud Platform"></a>
@@ -37,11 +52,8 @@ This is my coding playground, where I enjoy learning and exploring different tec
 , hay un poco de todo para que te entretengas.
 -->
 
-##🚀 Let's get started!
 
-This github is a learning and testing space. My public repositories are there to showcase my development in this industry and help potential recruiters get a better picture of my profile as a cloud architect and devops engeneer. Feel free to explore, clone and play around.
-
-##📊 My GitHub stats:
+## 📊 My GitHub stats:
 
 Algunas estadísticas interesantes sobre mi actividad en GitHub:
 
@@ -49,23 +61,10 @@ Algunas estadísticas interesantes sobre mi actividad en GitHub:
 
 [![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanadevesat&show_icons=true&theme=radical)](https://github.com/juanadevesat)
 
-<!--
-## Conectemos
+## 🚀 Let's get started! 
 
-[![Linkedin Badge](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/christiandavidmendez/)
--->
+This github is a learning and testing space. My public repositories are there to showcase my development in this industry and help potential recruiters get a better picture of my profile as a cloud architect and devops engeneer. Feel free to explore, clone and play around.
 
-<!--
-**juanadevesat/juanadevesat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Feel free to get in touch:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/juan-antonio-devesa-thomson-771727157/)
