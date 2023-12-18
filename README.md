@@ -49,4 +49,4 @@ This github is a learning and testing space. My public repositories are there to
 
 ## Feel free to get in touch:
 
-[![Linkedin Badge](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/juan-antonio-devesa-thomson-771727157/)
+[![Linkedin Badge](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/juanadevesat/)
