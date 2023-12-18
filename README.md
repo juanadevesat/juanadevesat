@@ -37,25 +37,7 @@ This is my coding playground, where I enjoy learning and exploring different tec
 
 <!--Badges: https://github.com/Ileriayo/markdown-badges-->
 
-<!--
-## 🛠️ Lo que encontrarás aquí:
-
-- **[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/):** Explora los diversos flujos de CI/CD en archivos `.yml`. Desde saludos automáticos hasta despliegues continuos, ¡hay mucho por descubrir!
-
-- **[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/):** Sumérgete en el fascinante mundo de los contenedores. Encuentra Dockerfiles y archivos de configuración para desplegar aplicaciones de manera rápida y eficiente.
-
-- **[![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
-:** Descubre cómo implementar y ejecutar funciones en la nube. ¡La magia de la computación sin servidor te espera!
-
-- **Scripts y Configuraciones Diversas:** Desde simples scripts en 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) hasta archivos de configuración en [![YAML](https://img.shields.io/badge/YAML-%23FFDAB9.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgdmlld0JveD0iMCAwIDEwIDEwIj4KICA8cGF0aCBkPSJNIDQuNzY1LjQ1N0MuOTc1LjQ1NyAwIDQuNTUyLjk3NSA0Ljc2MyAwbDQuNzYyIDQuNzYyLTQuNzY0IDQuNzYzYy0uOTc1LS45NzUtMS45NzUtLjk3NS0zLjk3NCAwLS45NzUtLjk3NS0uOTc1LTMuOTc1IDAtLjk3NSAxLjk3NS0uOTc1IDMuOTc1czEuOTc1Ljk3NSAzLjk3NSAuOTc1Ljk3NSAzLjk3NXoiLz4KPC9zdmc+Cg==)](https://yaml.org/)
-, hay un poco de todo para que te entretengas.
--->
-
-
 ## 📊 My GitHub stats:
-
-Algunas estadísticas interesantes sobre mi actividad en GitHub:
 
 # ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanadevesat&layout=compact) 
 
