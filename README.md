@@ -12,7 +12,7 @@ This is my coding playground, where I enjoy learning and exploring different tec
 <a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" height="60" alt="Terraform"></a>
 
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="60" alt="Python"></a>
-Flask
+Flask   <a href=""><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" height="60" alt="flask"></a>
 HTML
 CSS
 
@@ -21,6 +21,7 @@ CSS
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="60" alt="Git"></a>
 <a href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="60" alt="GitHub"></a>
 
+<!--Badges: https://github.com/Ileriayo/markdown-badges-->
 
 <!--
 Este es mi rincón de experimentación, donde me divierto jugando con las últimas tecnologías y explorando todas las maravillas que Git, GitHub Actions, Docker, Google Functions y más tienen para ofrecer.
