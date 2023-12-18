@@ -12,9 +12,9 @@ This is my coding playground, where I enjoy learning and exploring different tec
 <a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" height="60" alt="Terraform"></a>
 
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="60" alt="Python"></a>
-Flask   <a href=""><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" height="60" alt="flask"></a>
-HTML
-CSS
+<a href="https://flask.palletsprojects.com/en/3.0.x/"><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" height="60" alt="flask"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="60" alt="HTML5"></a>
+<a href="https://developer.mozilla.org/es/docs/Web/CSS"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="60" alt="HTML5"></a>
 
 <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="60" alt="MongoDB"></a>
 <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="60" alt="PostgreSQL"></a>
