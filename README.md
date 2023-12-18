@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 This is my coding playground, where I enjoy learning and exploring different technologies. 
 
+## 🚀 Let's get started! 
+
+This github is a learning and testing space. My public repositories are there to showcase my development in this industry and help potential recruiters get a better picture of my profile as a cloud architect and devops engeneer. Feel free to explore, clone and play around.
+
 ## 🛠️ These are the tools in my toolbox:
 
 <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="30" alt="Amazon Web Services"></a>
@@ -42,10 +46,6 @@ This is my coding playground, where I enjoy learning and exploring different tec
 # ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanadevesat&layout=compact) 
 
 [![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanadevesat&show_icons=true&theme=radical)](https://github.com/juanadevesat)
-
-## 🚀 Let's get started! 
-
-This github is a learning and testing space. My public repositories are there to showcase my development in this industry and help potential recruiters get a better picture of my profile as a cloud architect and devops engeneer. Feel free to explore, clone and play around.
 
 ## Feel free to get in touch:
 
