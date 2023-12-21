@@ -48,6 +48,27 @@ This github is a learning and testing space. My public repositories are there to
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanadevesat&layout=compact) 
 [![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanadevesat&show_icons=true&theme=radical)](https://github.com/juanadevesat)
 
+## ✨ Skills
+<table style="border: 0px;">
+    <tr>
+        <td><a href="https://badgr.com/backpack/badges/657b25ad1527074bf3b29b16"><img src="img/Architecture professional.png" height="80" alt="Architecture Professional"></a></td>
+        <td><a href="https://badgr.com/backpack/badges/657b259eebf2365fd2985403"><img src="img/Seguridad en nube.png" height="80" alt="Seguridad en nube"></a></td>
+        <td><a href="https://badgr.com/backpack/badges/657b257835f20d32468251a1"><img src="img/Provisioning.png" height="80" alt="Provisioning"></a></td>
+        <td><a href="https://badgr.com/backpack/badges/657b258debf2365fd29853e6"><img src="img/Data en nube.png" height="80" alt="Data en nube"></a></td>
+    </tr>
+    <tr>
+        <td><a href="https://badgr.com/backpack/badges/657b256a35f20d3246825133"><img src="img/DevOps Leader.png" height="80" alt="DevOps Leader"></a></td>
+        <td><a href="https://badgr.com/backpack/badges/657b255635f20d324682511c"><img src="img/IaaC.png" height="80" alt="IaaC"></a></td>
+        <td><a href="https://badgr.com/backpack/badges/657b253eebf2365fd29852e7"><img src="img/Architecture builder.png" height="80" alt="Architecture Builder"></a></td>
+        <td><a href="https://badgr.com/backpack/badges/657b252eebf2365fd29852b8"><img src="img/Terminales.png" height="80" alt="Terminales"></a></td>
+    </tr>
+    <tr>
+        <td><a href="https://badgr.com/backpack/badges/657b2518b6343f1cc6855077"><img src="img/Kube Master.png" height="80" alt="Kube Master"></a></td>
+        <td><a href="https://badgr.com/backpack/badges/657998a284185e577784a2e7"><img src="img/Basic Cloud.png" height="80" alt="Basic Cloud"></a></td>
+        <td><a href="https://badgr.com/backpack/badges/6579910d84185e57778497f1"><img src="img/Agile.png" height="80" alt="Agile"></a></td>
+    </tr>
+</table>
+
 ## Feel free to get in touch:
 
 [![Linkedin Badge](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/juanadevesat/)
