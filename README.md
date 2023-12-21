@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Animated banner](<img/GitHub Intro.gif>)
+![Animated banner](<img/GitHub Banner.png>)
 
 ### Hi there 👋
 
