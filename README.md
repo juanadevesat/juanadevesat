@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Animated banner](<img/GitHub Intro.gif>)
+
 ### Hi there 👋
 
 This is my coding playground, where I enjoy learning and exploring different technologies. 
