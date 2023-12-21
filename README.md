@@ -46,7 +46,6 @@ This github is a learning and testing space. My public repositories are there to
 ## 📊 My GitHub stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanadevesat&layout=compact) 
-
 [![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanadevesat&show_icons=true&theme=radical)](https://github.com/juanadevesat)
 
 ## Feel free to get in touch:
